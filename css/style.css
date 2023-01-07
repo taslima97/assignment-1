@@ -1,0 +1,161 @@
+
+/* header-style */
+header{
+    margin: 0;
+    padding: 0;
+    background-image: url(/image/images/banner/banner3.png);
+    height: 808px;
+    width: 100%;
+    text-align: end;
+}
+.banner{
+    padding-top: 116px;
+    padding-right: 230px;
+    color: #fff;
+}
+.head{
+    height: 228px;
+    width: 525px;
+    font-weight: 700;
+    font-size: 65px;
+    padding-left: 845px;
+}
+.text-description{
+    height: 78px;
+    width: 494px;
+    font-size: 16px;
+    padding-left: 888px;
+    line-height: 1.5rem;
+    
+}
+.btn-primary{
+    background-color: #fff;
+    color: #006CBF;
+    padding: 10px 25px;
+    margin-right: -100px;
+
+}
+/* main style */
+.failures-section{
+    display: flex;
+}
+.failure-girl{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 129px;
+}
+.failure-history{
+    margin-top: 250px;
+    margin-right: 322px;
+    margin-left: 87px;
+    margin-bottom: 214px;
+
+}
+.failure-head{
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 98px;
+}
+.text{
+    font-size: 16px;
+    color: #474747;
+    height: 104px;
+    width: 416px;
+}
+.list{
+    height: 162px;
+    width: 349px;
+    font-size: 16px;
+    color: #474747;
+    margin-left: -15px;
+}
+.list li{
+    background-image: url(../image/images/icons/check.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding-left: 34px;
+    list-style: none;
+}
+.icon{
+    text-align: center;
+}
+.iconic-section{
+    display: flex;
+    justify-content: space-around;
+    height: 202px;
+    width: 1141px;
+    margin-left: 200px;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.plan-head h4{
+font-weight: 700;
+font-size: 30px;
+}
+.plan-head p{
+    font-size: 25px;
+}
+.gradient-section{
+    height: 300px;
+    width: 1140px;
+    margin-left: 230px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    background-image: url("../image/images/watch.png"), linear-gradient(#005FAC, #005FAC);
+
+}
+.gradient-section h3{
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 90px;
+    width: 449px;
+    height: 94px;
+    color: #fff;
+    padding-top: 60px;
+}
+.gradient-section button{
+    margin-left: 90px;
+}
+.footer{
+    display: flex;
+    height: 577px;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+}.footer-title{
+    height: 317px;
+    width: 485px;
+    margin-left: 230px;
+    margin-top: 130px;
+}
+.footer-title h3{
+    font-weight: 700;
+    font-size: 45px;
+}
+.footer-form{
+    margin-left: 320px;
+    margin-top: 130px;
+}
+input[type=email]{
+    padding: 10px 25px;
+    margin: 5px;
+}
+.footer-form h3{
+    font-weight: 500;
+    font-size: 25px;
+}
+input[type=submit]{
+    background-color: #006CBF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+}
